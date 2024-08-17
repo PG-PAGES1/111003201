@@ -1,0 +1,48 @@
+
+ui_infobar_ornament_c.png
+size: 332,66
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ib_bar_c_coin
+  rotate: false
+  xy: 215, 26
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+ib_bar_c_ingot
+  rotate: false
+  xy: 131, 7
+  size: 82, 57
+  orig: 82, 57
+  offset: 0, 0
+  index: -1
+ib_bar_c_string_L
+  rotate: false
+  xy: 299, 21
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+ib_bar_c_string_R
+  rotate: true
+  xy: 255, 31
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+ib_bar_c_tassel
+  rotate: true
+  xy: 2, 8
+  size: 56, 127
+  orig: 56, 127
+  offset: 0, 0
+  index: -1
+ib_bar_c_top
+  rotate: true
+  xy: 215, 2
+  size: 22, 57
+  orig: 22, 57
+  offset: 0, 0
+  index: -1

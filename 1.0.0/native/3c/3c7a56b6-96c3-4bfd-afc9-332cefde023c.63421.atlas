@@ -1,0 +1,725 @@
+
+freegame.jpg
+size: 2034,1875
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_mid_fire/bw_vfx_k_00
+  rotate: false
+  xy: 196, 1134
+  size: 357, 164
+  orig: 359, 170
+  offset: 1, 0
+  index: -1
+bw_mid_fire/bw_vfx_k_01
+  rotate: false
+  xy: 1239, 1273
+  size: 359, 160
+  orig: 359, 170
+  offset: 0, 0
+  index: -1
+bw_mid_fire/bw_vfx_k_02
+  rotate: false
+  xy: 1600, 1271
+  size: 355, 160
+  orig: 359, 170
+  offset: 2, 0
+  index: -1
+bw_mid_fire/bw_vfx_k_03
+  rotate: false
+  xy: 508, 1300
+  size: 353, 156
+  orig: 359, 170
+  offset: 2, 0
+  index: -1
+bw_mid_fire/bw_vfx_k_04
+  rotate: false
+  xy: 687, 1458
+  size: 351, 152
+  orig: 359, 170
+  offset: 3, 0
+  index: -1
+bw_mid_fire/bw_vfx_k_05
+  rotate: false
+  xy: 555, 1133
+  size: 351, 164
+  orig: 359, 170
+  offset: 2, 0
+  index: -1
+bw_mid_fire/bw_vfx_k_06
+  rotate: false
+  xy: 1616, 1099
+  size: 349, 170
+  orig: 359, 170
+  offset: 3, 0
+  index: -1
+bw_mid_fire/bw_vfx_k_07
+  rotate: false
+  xy: 908, 1103
+  size: 351, 168
+  orig: 359, 170
+  offset: 2, 0
+  index: -1
+bw_mid_fire/bw_vfx_k_08
+  rotate: false
+  xy: 1, 962
+  size: 351, 170
+  orig: 359, 170
+  offset: 3, 0
+  index: -1
+bw_mid_fire/bw_vfx_k_09
+  rotate: false
+  xy: 354, 961
+  size: 351, 170
+  orig: 359, 170
+  offset: 8, 0
+  index: -1
+bw_mid_fire/bw_vfx_k_10
+  rotate: false
+  xy: 904, 931
+  size: 352, 170
+  orig: 359, 170
+  offset: 7, 0
+  index: -1
+bw_mid_fire/bw_vfx_k_11
+  rotate: false
+  xy: 1258, 929
+  size: 350, 170
+  orig: 359, 170
+  offset: 9, 0
+  index: -1
+bw_mid_fire/bw_vfx_k_12
+  rotate: false
+  xy: 1261, 1101
+  size: 353, 168
+  orig: 359, 170
+  offset: 4, 0
+  index: -1
+bw_mid_fire/bw_vfx_k_13
+  rotate: false
+  xy: 1610, 927
+  size: 355, 170
+  orig: 359, 170
+  offset: 2, 0
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_01
+  rotate: true
+  xy: 477, 1781
+  size: 93, 141
+  orig: 177, 175
+  offset: 39, 12
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_02
+  rotate: true
+  xy: 620, 1763
+  size: 111, 155
+  orig: 177, 175
+  offset: 27, 7
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_03
+  rotate: true
+  xy: 777, 1751
+  size: 123, 169
+  orig: 177, 175
+  offset: 20, 4
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_04
+  rotate: true
+  xy: 1465, 1745
+  size: 129, 171
+  orig: 177, 175
+  offset: 17, 2
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_05
+  rotate: true
+  xy: 818, 1612
+  size: 137, 169
+  orig: 177, 175
+  offset: 13, 3
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_06
+  rotate: true
+  xy: 1335, 1600
+  size: 143, 169
+  orig: 177, 175
+  offset: 10, 2
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_07
+  rotate: true
+  xy: 948, 1751
+  size: 123, 169
+  orig: 177, 175
+  offset: 30, 2
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_08
+  rotate: true
+  xy: 174, 1499
+  size: 151, 171
+  orig: 177, 175
+  offset: 5, 2
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_09
+  rotate: true
+  xy: 514, 1459
+  size: 155, 171
+  orig: 177, 175
+  offset: 3, 2
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_10
+  rotate: true
+  xy: 1040, 1455
+  size: 155, 169
+  orig: 177, 175
+  offset: 5, 4
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_11
+  rotate: true
+  xy: 1553, 1435
+  size: 157, 171
+  orig: 177, 175
+  offset: 5, 3
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_12
+  rotate: true
+  xy: 1, 1362
+  size: 159, 171
+  orig: 177, 175
+  offset: 5, 4
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_13
+  rotate: true
+  xy: 174, 1336
+  size: 161, 169
+  orig: 177, 175
+  offset: 5, 3
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_14
+  rotate: false
+  xy: 345, 1302
+  size: 161, 171
+  orig: 177, 175
+  offset: 7, 2
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_15
+  rotate: true
+  xy: 347, 1475
+  size: 153, 165
+  orig: 177, 175
+  offset: 15, 5
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_16
+  rotate: true
+  xy: 1211, 1443
+  size: 155, 167
+  orig: 177, 175
+  offset: 13, 4
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_17
+  rotate: true
+  xy: 1380, 1440
+  size: 155, 171
+  orig: 177, 175
+  offset: 14, 4
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_18
+  rotate: true
+  xy: 1689, 1594
+  size: 147, 171
+  orig: 177, 175
+  offset: 22, 3
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_19
+  rotate: true
+  xy: 1862, 1592
+  size: 149, 171
+  orig: 177, 175
+  offset: 20, 3
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_20
+  rotate: true
+  xy: 1, 1523
+  size: 149, 171
+  orig: 177, 175
+  offset: 20, 3
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_21
+  rotate: true
+  xy: 1726, 1433
+  size: 157, 173
+  orig: 177, 175
+  offset: 12, 2
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_22
+  rotate: true
+  xy: 863, 1299
+  size: 157, 173
+  orig: 177, 175
+  offset: 12, 2
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_23
+  rotate: true
+  xy: 989, 1612
+  size: 137, 171
+  orig: 177, 175
+  offset: 12, 3
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_24
+  rotate: true
+  xy: 1162, 1612
+  size: 137, 171
+  orig: 177, 175
+  offset: 12, 4
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_25
+  rotate: true
+  xy: 1809, 1743
+  size: 131, 171
+  orig: 177, 175
+  offset: 11, 3
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_26
+  rotate: true
+  xy: 1119, 1751
+  size: 123, 171
+  orig: 177, 175
+  offset: 19, 3
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_27
+  rotate: true
+  xy: 1638, 1745
+  size: 129, 169
+  orig: 177, 175
+  offset: 20, 3
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_28
+  rotate: true
+  xy: 1292, 1751
+  size: 123, 171
+  orig: 177, 175
+  offset: 19, 3
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_29
+  rotate: true
+  xy: 136, 1674
+  size: 131, 169
+  orig: 177, 175
+  offset: 18, 4
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_30
+  rotate: true
+  xy: 476, 1630
+  size: 131, 169
+  orig: 177, 175
+  offset: 18, 5
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_31
+  rotate: true
+  xy: 647, 1616
+  size: 133, 169
+  orig: 177, 175
+  offset: 17, 5
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_32
+  rotate: false
+  xy: 1, 1678
+  size: 133, 167
+  orig: 177, 175
+  offset: 17, 6
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_33
+  rotate: true
+  xy: 307, 1652
+  size: 133, 167
+  orig: 177, 175
+  offset: 17, 5
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_34
+  rotate: true
+  xy: 308, 1787
+  size: 87, 167
+  orig: 177, 175
+  offset: 62, 5
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_35
+  rotate: true
+  xy: 141, 1807
+  size: 67, 165
+  orig: 177, 175
+  offset: 65, 6
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_36
+  rotate: true
+  xy: 20, 1847
+  size: 27, 119
+  orig: 177, 175
+  offset: 86, 52
+  index: -1
+silver_shuffle_animation/shuffle_vfx_e_37
+  rotate: true
+  xy: 1, 1865
+  size: 9, 17
+  orig: 177, 175
+  offset: 87, 53
+  index: -1
+sym_winfire_01/wh_vfx_c_1x1_00
+  rotate: true
+  xy: 1, 1145
+  size: 189, 193
+  orig: 229, 237
+  offset: 20, 22
+  index: -1
+sym_winfire_01/wh_vfx_c_1x1_01
+  rotate: true
+  xy: 1, 771
+  size: 189, 205
+  orig: 229, 237
+  offset: 20, 16
+  index: -1
+sym_winfire_01/wh_vfx_c_1x1_02
+  rotate: true
+  xy: 208, 770
+  size: 189, 205
+  orig: 229, 237
+  offset: 20, 16
+  index: -1
+sym_winfire_01/wh_vfx_c_1x1_03
+  rotate: true
+  xy: 415, 770
+  size: 189, 209
+  orig: 229, 237
+  offset: 20, 14
+  index: -1
+sym_winfire_01/wh_vfx_c_1x1_04
+  rotate: true
+  xy: 626, 751
+  size: 189, 207
+  orig: 229, 237
+  offset: 20, 19
+  index: -1
+sym_winfire_01/wh_vfx_c_1x1_05
+  rotate: true
+  xy: 835, 740
+  size: 189, 201
+  orig: 229, 237
+  offset: 20, 22
+  index: -1
+sym_winfire_01/wh_vfx_c_1x1_06
+  rotate: true
+  xy: 707, 942
+  size: 189, 195
+  orig: 229, 237
+  offset: 20, 21
+  index: -1
+sym_winfire_01/wh_vfx_c_1x1_07
+  rotate: true
+  xy: 1038, 740
+  size: 189, 199
+  orig: 229, 237
+  offset: 20, 19
+  index: -1
+sym_winfire_01/wh_vfx_c_1x1_08
+  rotate: true
+  xy: 1239, 738
+  size: 189, 201
+  orig: 229, 237
+  offset: 20, 19
+  index: -1
+win_particle_01/wh_vfx_d_1x1_00
+  rotate: false
+  xy: 1655, 722
+  size: 222, 203
+  orig: 350, 385
+  offset: 63, 87
+  index: -1
+win_particle_01/wh_vfx_d_1x1_01
+  rotate: false
+  xy: 216, 555
+  size: 240, 213
+  orig: 350, 385
+  offset: 54, 75
+  index: -1
+win_particle_01/wh_vfx_d_1x1_02
+  rotate: false
+  xy: 1660, 491
+  size: 250, 229
+  orig: 350, 385
+  offset: 52, 67
+  index: -1
+win_particle_01/wh_vfx_d_1x1_03
+  rotate: false
+  xy: 1, 89
+  size: 260, 233
+  orig: 350, 385
+  offset: 49, 67
+  index: -1
+win_particle_01/wh_vfx_d_1x1_04
+  rotate: false
+  xy: 263, 48
+  size: 268, 235
+  orig: 350, 385
+  offset: 45, 70
+  index: -1
+win_particle_01/wh_vfx_d_1x1_05
+  rotate: false
+  xy: 821, 33
+  size: 276, 243
+  orig: 350, 385
+  offset: 41, 66
+  index: -1
+win_particle_01/wh_vfx_d_1x1_06
+  rotate: false
+  xy: 1385, 1
+  size: 280, 257
+  orig: 350, 385
+  offset: 41, 55
+  index: -1
+win_particle_01/wh_vfx_d_1x1_07
+  rotate: false
+  xy: 1099, 4
+  size: 284, 255
+  orig: 350, 385
+  offset: 37, 55
+  index: -1
+win_particle_01/wh_vfx_d_1x1_08
+  rotate: false
+  xy: 533, 40
+  size: 286, 239
+  orig: 350, 385
+  offset: 36, 62
+  index: -1
+win_particle_01/wh_vfx_d_1x1_09
+  rotate: false
+  xy: 1141, 509
+  size: 286, 227
+  orig: 350, 385
+  offset: 39, 76
+  index: -1
+win_particle_01/wh_vfx_d_1x1_10
+  rotate: false
+  xy: 1, 324
+  size: 260, 229
+  orig: 350, 385
+  offset: 65, 76
+  index: -1
+win_particle_01/wh_vfx_d_1x1_11
+  rotate: false
+  xy: 263, 302
+  size: 256, 229
+  orig: 350, 385
+  offset: 69, 76
+  index: -1
+win_particle_01/wh_vfx_d_1x1_12
+  rotate: false
+  xy: 521, 285
+  size: 254, 229
+  orig: 350, 385
+  offset: 71, 76
+  index: -1
+win_particle_01/wh_vfx_d_1x1_13
+  rotate: false
+  xy: 777, 281
+  size: 246, 229
+  orig: 350, 385
+  offset: 79, 76
+  index: -1
+win_particle_01/wh_vfx_d_1x1_14
+  rotate: false
+  xy: 1025, 278
+  size: 246, 229
+  orig: 350, 385
+  offset: 79, 76
+  index: -1
+win_particle_01/wh_vfx_d_1x1_15
+  rotate: false
+  xy: 1273, 261
+  size: 244, 229
+  orig: 350, 385
+  offset: 81, 76
+  index: -1
+win_particle_01/wh_vfx_d_1x1_16
+  rotate: false
+  xy: 1519, 260
+  size: 244, 229
+  orig: 350, 385
+  offset: 81, 76
+  index: -1
+win_particle_01/wh_vfx_d_1x1_17
+  rotate: false
+  xy: 1765, 260
+  size: 234, 229
+  orig: 350, 385
+  offset: 82, 75
+  index: -1
+win_particle_01/wh_vfx_d_1x1_18
+  rotate: true
+  xy: 1429, 492
+  size: 228, 229
+  orig: 350, 385
+  offset: 84, 76
+  index: -1
+win_particle_01/wh_vfx_d_1x1_19
+  rotate: true
+  xy: 910, 512
+  size: 226, 229
+  orig: 350, 385
+  offset: 86, 76
+  index: -1
+win_particle_01/wh_vfx_d_1x1_20
+  rotate: true
+  xy: 679, 516
+  size: 222, 229
+  orig: 350, 385
+  offset: 88, 76
+  index: -1
+win_particle_01/wh_vfx_d_1x1_21
+  rotate: true
+  xy: 458, 533
+  size: 216, 219
+  orig: 350, 385
+  offset: 91, 85
+  index: -1
+win_particle_01/wh_vfx_d_1x1_22
+  rotate: true
+  xy: 1, 562
+  size: 206, 213
+  orig: 350, 385
+  offset: 99, 89
+  index: -1
+win_particle_01/wh_vfx_d_1x1_23
+  rotate: true
+  xy: 1442, 735
+  size: 190, 211
+  orig: 350, 385
+  offset: 115, 92
+  index: -1
+win_particle_01/wh_vfx_d_1x1_24
+  rotate: true
+  xy: 1038, 1281
+  size: 160, 199
+  orig: 350, 385
+  offset: 129, 96
+  index: -1
+win_particle_01/wh_vfx_d_1x1_25
+  rotate: true
+  xy: 1506, 1597
+  size: 146, 181
+  orig: 350, 385
+  offset: 137, 100
+  index: -1
+
+freegame2.jpg
+size: 2032,2026
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+end/fs_end_light
+  rotate: true
+  xy: 1532, 206
+  size: 429, 384
+  orig: 429, 384
+  offset: 0, 0
+  index: -1
+end/fs_end_light_01
+  rotate: false
+  xy: 1, 1089
+  size: 2030, 936
+  orig: 2030, 936
+  offset: 0, 0
+  index: -1
+end/fs_ring_light
+  rotate: true
+  xy: 788, 1
+  size: 432, 742
+  orig: 432, 742
+  offset: 0, 0
+  index: -1
+start/fs_mtp_ui_light/bns_bg_bottom_b
+  rotate: false
+  xy: 788, 435
+  size: 734, 652
+  orig: 734, 652
+  offset: 0, 0
+  index: -1
+start/fs_mtp_ui_light/bns_bg_bottom_vfx_a
+  rotate: true
+  xy: 1, 331
+  size: 756, 785
+  orig: 756, 785
+  offset: 0, 0
+  index: -1
+start/fs_rotate_light
+  rotate: false
+  xy: 1524, 637
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+
+
+freegame3.png
+size: 1946,1463
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+end/fs_end_cloud
+  rotate: false
+  xy: 1189, 759
+  size: 756, 703
+  orig: 756, 711
+  offset: 0, 0
+  index: -1
+end/fs_end_coins
+  rotate: true
+  xy: 788, 1
+  size: 756, 929
+  orig: 756, 943
+  offset: 0, 0
+  index: -1
+start/fs_mtp_ui_light/bns_bg_bottom_b
+  rotate: false
+  xy: 453, 810
+  size: 734, 652
+  orig: 734, 652
+  offset: 0, 0
+  index: -1
+start/fs_mtp_ui_light/bns_bg_bottom_vfx_a
+  rotate: true
+  xy: 1, 52
+  size: 756, 785
+  orig: 756, 785
+  offset: 0, 0
+  index: -1
+start/fs_rotate_light
+  rotate: false
+  xy: 1, 1012
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+
+freegame32.png
+size: 1975,1516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+end/tw_role
+  rotate: false
+  xy: 1, 169
+  size: 756, 1346
+  orig: 756, 1346
+  offset: 0, 0
+  index: -1
+start/fs_start_cloud
+  rotate: true
+  xy: 759, 1
+  size: 756, 776
+  orig: 756, 844
+  offset: 0, 0
+  index: -1
+start/fs_start_role
+  rotate: true
+  xy: 759, 759
+  size: 756, 1215
+  orig: 756, 1215
+  offset: 0, 0
+  index: -1

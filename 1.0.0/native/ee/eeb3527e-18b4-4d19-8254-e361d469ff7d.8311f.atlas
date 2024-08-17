@@ -1,0 +1,511 @@
+
+silver_glod_frame.jpg
+size: 970,1045
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+silver_shuffle_gold_02/shuffle_vfx_g_1x2_00
+  rotate: false
+  xy: 553, 37
+  size: 140, 75
+  orig: 146, 481
+  offset: 3, 273
+  index: -1
+silver_shuffle_gold_02/shuffle_vfx_g_1x2_01
+  rotate: false
+  xy: 553, 114
+  size: 144, 103
+  orig: 146, 481
+  offset: 1, 245
+  index: -1
+silver_shuffle_gold_02/shuffle_vfx_g_1x2_02
+  rotate: false
+  xy: 713, 210
+  size: 144, 129
+  orig: 146, 481
+  offset: 1, 217
+  index: -1
+silver_shuffle_gold_02/shuffle_vfx_g_1x2_03
+  rotate: true
+  xy: 113, 260
+  size: 140, 147
+  orig: 146, 481
+  offset: 3, 189
+  index: -1
+silver_shuffle_gold_02/shuffle_vfx_g_1x2_04
+  rotate: true
+  xy: 443, 680
+  size: 140, 161
+  orig: 146, 481
+  offset: 3, 161
+  index: -1
+silver_shuffle_gold_02/shuffle_vfx_g_1x2_05
+  rotate: true
+  xy: 278, 258
+  size: 144, 147
+  orig: 146, 481
+  offset: 1, 150
+  index: -1
+silver_shuffle_gold_02/shuffle_vfx_g_1x2_06
+  rotate: false
+  xy: 405, 102
+  size: 146, 129
+  orig: 146, 481
+  offset: 0, 139
+  index: -1
+silver_shuffle_gold_02/shuffle_vfx_g_1x2_07
+  rotate: true
+  xy: 861, 330
+  size: 146, 105
+  orig: 146, 481
+  offset: 0, 135
+  index: -1
+silver_shuffle_gold_02/shuffle_vfx_g_1x2_08
+  rotate: false
+  xy: 699, 50
+  size: 144, 77
+  orig: 146, 481
+  offset: 1, 135
+  index: -1
+silver_shuffle_gold_02/shuffle_vfx_g_1x2_09
+  rotate: false
+  xy: 695, 1
+  size: 122, 47
+  orig: 146, 481
+  offset: 12, 137
+  index: -1
+silver_shuffle_gold_03/shuffle_vfx_g_1x3_00
+  rotate: false
+  xy: 405, 35
+  size: 136, 65
+  orig: 146, 481
+  offset: 5, 323
+  index: -1
+silver_shuffle_gold_03/shuffle_vfx_g_1x3_01
+  rotate: true
+  xy: 876, 478
+  size: 144, 93
+  orig: 146, 481
+  offset: 1, 294
+  index: -1
+silver_shuffle_gold_03/shuffle_vfx_g_1x3_02
+  rotate: true
+  xy: 606, 676
+  size: 144, 121
+  orig: 146, 481
+  offset: 1, 266
+  index: -1
+silver_shuffle_gold_03/shuffle_vfx_g_1x3_03
+  rotate: false
+  xy: 261, 115
+  size: 142, 141
+  orig: 146, 481
+  offset: 2, 238
+  index: -1
+silver_shuffle_gold_03/shuffle_vfx_g_1x3_04
+  rotate: true
+  xy: 719, 484
+  size: 138, 155
+  orig: 146, 481
+  offset: 4, 210
+  index: -1
+silver_shuffle_gold_03/shuffle_vfx_g_1x3_05
+  rotate: true
+  xy: 113, 540
+  size: 138, 163
+  orig: 146, 481
+  offset: 4, 182
+  index: -1
+silver_shuffle_gold_03/shuffle_vfx_g_1x3_06
+  rotate: true
+  xy: 113, 680
+  size: 140, 163
+  orig: 146, 481
+  offset: 3, 155
+  index: -1
+silver_shuffle_gold_03/shuffle_vfx_g_1x3_07
+  rotate: true
+  xy: 278, 680
+  size: 140, 163
+  orig: 146, 481
+  offset: 3, 127
+  index: -1
+silver_shuffle_gold_03/shuffle_vfx_g_1x3_08
+  rotate: true
+  xy: 427, 233
+  size: 142, 149
+  orig: 146, 481
+  offset: 2, 113
+  index: -1
+silver_shuffle_gold_03/shuffle_vfx_g_1x3_09
+  rotate: true
+  xy: 578, 219
+  size: 146, 133
+  orig: 146, 481
+  offset: 0, 101
+  index: -1
+silver_shuffle_gold_03/shuffle_vfx_g_1x3_10
+  rotate: false
+  xy: 257, 4
+  size: 146, 109
+  orig: 146, 481
+  offset: 0, 96
+  index: -1
+silver_shuffle_gold_03/shuffle_vfx_g_1x3_11
+  rotate: true
+  xy: 859, 184
+  size: 144, 81
+  orig: 146, 481
+  offset: 1, 96
+  index: -1
+silver_shuffle_gold_04/shuffle_vfx_g_1x4_00
+  rotate: true
+  xy: 847, 42
+  size: 140, 81
+  orig: 146, 481
+  offset: 3, 345
+  index: -1
+silver_shuffle_gold_04/shuffle_vfx_g_1x4_01
+  rotate: false
+  xy: 113, 2
+  size: 142, 115
+  orig: 146, 481
+  offset: 2, 311
+  index: -1
+silver_shuffle_gold_04/shuffle_vfx_g_1x4_02
+  rotate: false
+  xy: 717, 341
+  size: 142, 141
+  orig: 146, 481
+  offset: 2, 277
+  index: -1
+silver_shuffle_gold_04/shuffle_vfx_g_1x4_03
+  rotate: false
+  xy: 581, 515
+  size: 136, 159
+  orig: 146, 481
+  offset: 5, 243
+  index: -1
+silver_shuffle_gold_04/shuffle_vfx_g_1x4_04
+  rotate: true
+  xy: 278, 542
+  size: 136, 163
+  orig: 146, 481
+  offset: 5, 209
+  index: -1
+silver_shuffle_gold_04/shuffle_vfx_g_1x4_05
+  rotate: false
+  xy: 443, 515
+  size: 136, 163
+  orig: 146, 481
+  offset: 5, 176
+  index: -1
+silver_shuffle_gold_04/shuffle_vfx_g_1x4_06
+  rotate: true
+  xy: 278, 404
+  size: 136, 163
+  orig: 146, 481
+  offset: 5, 143
+  index: -1
+silver_shuffle_gold_04/shuffle_vfx_g_1x4_07
+  rotate: true
+  xy: 113, 402
+  size: 136, 163
+  orig: 146, 481
+  offset: 5, 109
+  index: -1
+silver_shuffle_gold_04/shuffle_vfx_g_1x4_08
+  rotate: true
+  xy: 443, 377
+  size: 136, 157
+  orig: 146, 481
+  offset: 5, 82
+  index: -1
+silver_shuffle_gold_04/shuffle_vfx_g_1x4_09
+  rotate: false
+  xy: 113, 119
+  size: 146, 139
+  orig: 146, 481
+  offset: 0, 66
+  index: -1
+silver_shuffle_gold_04/shuffle_vfx_g_1x4_10
+  rotate: true
+  xy: 602, 367
+  size: 146, 113
+  orig: 146, 481
+  offset: 0, 57
+  index: -1
+silver_shuffle_gold_04/shuffle_vfx_g_1x4_11
+  rotate: false
+  xy: 699, 129
+  size: 146, 79
+  orig: 146, 481
+  offset: 0, 57
+  index: -1
+silver_shuffle_stop/shuffle_vfx_b_00
+  rotate: true
+  xy: 1, 934
+  size: 110, 308
+  orig: 110, 308
+  offset: 0, 0
+  index: -1
+silver_shuffle_stop/shuffle_vfx_b_01
+  rotate: true
+  xy: 311, 934
+  size: 110, 308
+  orig: 110, 308
+  offset: 0, 0
+  index: -1
+silver_shuffle_stop/shuffle_vfx_b_02
+  rotate: true
+  xy: 621, 934
+  size: 110, 308
+  orig: 110, 308
+  offset: 0, 0
+  index: -1
+silver_shuffle_stop/shuffle_vfx_b_03
+  rotate: false
+  xy: 1, 624
+  size: 110, 308
+  orig: 110, 308
+  offset: 0, 0
+  index: -1
+silver_shuffle_stop/shuffle_vfx_b_04
+  rotate: false
+  xy: 1, 314
+  size: 110, 308
+  orig: 110, 308
+  offset: 0, 0
+  index: -1
+silver_shuffle_stop/shuffle_vfx_b_05
+  rotate: false
+  xy: 1, 4
+  size: 110, 308
+  orig: 110, 308
+  offset: 0, 0
+  index: -1
+silver_shuffle_stop/shuffle_vfx_b_06
+  rotate: true
+  xy: 113, 822
+  size: 110, 308
+  orig: 110, 308
+  offset: 0, 0
+  index: -1
+silver_shuffle_stop/shuffle_vfx_b_07
+  rotate: true
+  xy: 423, 822
+  size: 110, 308
+  orig: 110, 308
+  offset: 0, 0
+  index: -1
+silver_shuffle_stop/shuffle_vfx_b_08
+  rotate: false
+  xy: 733, 624
+  size: 110, 308
+  orig: 110, 308
+  offset: 0, 0
+  index: -1
+silver_shuffle_stop/shuffle_vfx_b_09
+  rotate: false
+  xy: 845, 624
+  size: 110, 308
+  orig: 110, 308
+  offset: 0, 0
+  index: -1
+
+
+silver_glod_frame2.jpg
+size: 1581,498
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+silver_shuffle_bg_01/shuffle_vfx_a_00
+  rotate: false
+  xy: 94, 187
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_01
+  rotate: false
+  xy: 187, 187
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_02
+  rotate: false
+  xy: 280, 187
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_03
+  rotate: true
+  xy: 1, 94
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_04
+  rotate: false
+  xy: 373, 187
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_05
+  rotate: true
+  xy: 1, 1
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_06
+  rotate: false
+  xy: 466, 187
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_07
+  rotate: false
+  xy: 559, 187
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_08
+  rotate: true
+  xy: 313, 94
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_09
+  rotate: false
+  xy: 652, 187
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_10
+  rotate: true
+  xy: 313, 1
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_11
+  rotate: false
+  xy: 745, 187
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_12
+  rotate: false
+  xy: 838, 187
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_13
+  rotate: false
+  xy: 931, 187
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_14
+  rotate: true
+  xy: 625, 94
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_15
+  rotate: false
+  xy: 1024, 187
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_16
+  rotate: true
+  xy: 625, 1
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_17
+  rotate: false
+  xy: 1117, 187
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_18
+  rotate: false
+  xy: 1210, 187
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_19
+  rotate: true
+  xy: 937, 94
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_20
+  rotate: false
+  xy: 1303, 187
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_21
+  rotate: true
+  xy: 937, 1
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_22
+  rotate: false
+  xy: 1396, 187
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_23
+  rotate: false
+  xy: 1489, 187
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_24
+  rotate: true
+  xy: 1249, 94
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_25
+  rotate: true
+  xy: 1249, 1
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+silver_shuffle_bg_01/shuffle_vfx_a_26
+  rotate: false
+  xy: 1, 187
+  size: 91, 310
+  orig: 91, 310
+  offset: 0, 0
+  index: -1
+
